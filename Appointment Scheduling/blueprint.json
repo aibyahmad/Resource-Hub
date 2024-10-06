@@ -660,7 +660,7 @@
                 "headers": [
                     {
                         "name": "Authorization",
-                        "value": "Bearer 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"
+                        "value": "Bearer"
                     }
                 ],
                 "timeout": "",
